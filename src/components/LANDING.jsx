@@ -9,7 +9,7 @@ const LANDING = () => {
     <>
       <section className='px-6 sm:px-16 text-lightShade'>
         <div className='flex items-center flex-wrap  my-20'>
-          <img className='h-10 sm:h-20' src='../../public/images/display-picture.png' alt="" />
+          <img className='h-10 sm:h-20' src='/images/display-picture.png' alt="" />
           <h3 className='ml-6 text-xl w-[50%] font-bold sm:min-w-[60%]  sm:text-4xl  overflow-visible' >Product Designer.</h3>
           <p className='mt-4 w-72 sm:w-full text-xs sm:text-base '>Interested in building accessible and sustainable products.</p>
         </div>
